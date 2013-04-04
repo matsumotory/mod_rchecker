@@ -1,3 +1,6 @@
+Move to https://github.com/matsumoto-r/mod_resource_checker
+
+```
 // -------------------------------------------------------------------
 // mod_rchecker.c
 //   Process Resource Logging Module
@@ -66,3 +69,4 @@
 // </FilesMatch>
 //
 // -------------------------------------------------------------------
+```
